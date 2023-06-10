@@ -6,5 +6,6 @@ public class Solution {
         System.out.println("Hi Nazar");
         System.out.println("Hi Nazar");
         System.out.println("Hi Nazar");
+        
     }
 }
